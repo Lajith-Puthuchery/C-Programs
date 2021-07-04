@@ -12,11 +12,15 @@ Output
 Print one integer, denoting the maximum possible number of assignments Rishi can finish so that he can sleep by midnight or earlier.
 
 Examples
+
 input
 5 10
+
 output
 5
+
 input
 9 60
+
 output
 8
